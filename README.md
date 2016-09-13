@@ -9,6 +9,7 @@ This is a script I wrote to scrape fivethirtyeight.com's daily baseball predicti
 3     ...
 ...
 ```
+Added columns for EV also, which gives you ODDs (decimal) that a bet will have a positive value. 
 
 **Website:** 
 http://projects.FiveThirtyEight.com/2016-mlb-predictions

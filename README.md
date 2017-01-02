@@ -22,7 +22,5 @@ GetOdds(kVector.of.strings)  # Strings are passed through lapply
 The final Data frames are titled ``` nl.odds ``` and ``` al.odds ```.
 
 **Notes:**
-I developed this to primarily test/ learn statistical learning models; using FiveThirtyEight's predictions as another variable in GLMs or as a bayesian prior.
-
 Google's R style guide is followed.
 
